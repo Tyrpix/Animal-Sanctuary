@@ -1,0 +1,31 @@
+Instructions to run AnimalSanctuary
+
+Python 3.6 or 3.7 is needed to run
+
+Open the following files into a supporting IDE such as PyCharm or Visual Studio Code;
+AnimalSanctuary.py
+Pet.py
+WildAnimal.py
+Treatment.py
+DADSA 2019-20 CWK A DATA PETS.csv
+DADSA 2019-20 CWK A WILD ANIMALS.csv
+DADSA 2019-20 CWK A TREATMENT.csv
+
+Pet.py contains the class Pet where multiple attributes are stored as Objects
+WildAnimal.py contains the class WildAnimal where multiple attributes are stored as Objects
+Treatment.py contains the class Treatment where multiple attributes are stored as Objects
+
+
+To execute code run AnimalSanctuary.py in the IDE terminal
+
+Data from the CSV files will be loaded into memory
+
+The user will be displayed a Menu that contains Sub Menus that can both be navigated with numerical inputs
+The user can create, update and veiw information from the CSV files 
+All changes are saved to the CSV files
+When the user selects 'Quit' the program will terminate
+
+
+ 
+
+
